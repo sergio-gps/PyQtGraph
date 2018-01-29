@@ -1,6 +1,7 @@
 # PyQtGraph
-A little test of how works PyQtGraph library.
+A little test of how works pip3 library.
 
 We will need:
-  ·pip3.exe install PyQt5
-  ·pip3.exe install numpy
+  ·pip3 install PyQt5
+  ·pip3 install numpy
+  ·pip3 install PyQtGraph
